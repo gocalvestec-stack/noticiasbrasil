@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://noticias-ia-brasil.vercel.app/sitemap.xml
+Sitemap: https://rdnewsbrasil.vercel.app/
